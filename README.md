@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+오늘도, 코딩 깃허브 공식 계정입니다.
+<img src='오코로고.png'>
 <!--
 **today-coding/today-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
