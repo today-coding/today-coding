@@ -4,7 +4,7 @@
 
 ---
 
-<img src='오코로고.png'>
+<img src='오코로고.png' width='200'>
 <!--
 **today-coding/today-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
